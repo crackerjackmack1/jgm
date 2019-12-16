@@ -19,7 +19,7 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,      #
 # 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.                  #
 #                                                                              #
-# Created in UBUNTU 16.04.3 LTS (Bionic Beaver) 64-bit, MATE 1.20.1, Kernel    #
+# Created in UBUNTU 18.04.3 LTS (Bionic Beaver) 64-bit, MATE 1.20.1, Kernel    #
 # Linux 5.0.0-36-generic x86_64, GNU bash, version 4.4.20(1)-release (x86_64-  #
 # pc-linux-gnu), Audacity 2.2.1.                                               #
 #                                                                              #
@@ -33,9 +33,9 @@
 # IMPORTANT! Arguments cannot contain whitespace characters!                   #
 # Example: ./cd2mp3.sh "Abbey_Road.mp3" "$HOME/Music/Abby_Road"                #
 #                                                                              #
-# It is strongly suggested to install Audacity and "fine tuning" the MP3 by    #
+# It is strongly suggested to install Audacity and "fine tune" the MP3 by      #
 # running the "Effect" > "Normalize" filter with the following settings:       #
-# ✓"Remove DC offset" ✓"Normalize to -1.0 dB" ✓"Normalize stereo channels"   #
+# ✓"Remove DC offset" ✓"Normalize to -1.0 dB" ✓"Normalize stereo channels"     #
 #                                                                              #
 # Enjoy!                                                                       #
 #                                                                              #
